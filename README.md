@@ -2,6 +2,8 @@
 
 මෙම ලේඛනය (Guide) මඟින් Linux File System එකේ මූලික සංකල්පවල සිට එහි අභ්‍යන්තර ව්‍යුහය (Hierarchy), ප්‍රධාන Folders, ඒවා තුළ ඇති සැබෑ Files පිළිබඳ ප්‍රායෝගික උදාහරණ (File Examples) සහ File Permissions දක්වා සරල සිංහලෙන් මෙන්ම තාක්ෂණික ගැඹුරින් (Deep Explanation) විස්තර කෙරේ.
 
+> 🚀 **අලුත්ම පාඩම:** [Linux Boot Process (පියවරෙන් පියවර සරල මගපෙන්වීම)](./LINUX_BOOT_PROCESS.md) - පරිගණකය Power On කළ මොහොතේ සිට Desktop එක පැමිණෙන තෙක් සිදුවන පියවර 6 රූප සටහන් සහිතව මෙතැනින් කියවන්න.
+
 ---
 
 ## 1. මූලික සංකල්පය (Mindset Shift: Windows vs Linux)
